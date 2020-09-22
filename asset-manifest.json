@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/resume-spa/static/css/main.cc7289e8.chunk.css",
+    "main.css": "/resume-spa/static/css/main.4b5450aa.chunk.css",
     "main.js": "/resume-spa/static/js/main.c72a2429.chunk.js",
     "main.js.map": "/resume-spa/static/js/main.c72a2429.chunk.js.map",
     "runtime-main.js": "/resume-spa/static/js/runtime-main.1de182e7.js",
@@ -9,10 +9,10 @@
     "static/js/2.38c42548.chunk.js": "/resume-spa/static/js/2.38c42548.chunk.js",
     "static/js/2.38c42548.chunk.js.map": "/resume-spa/static/js/2.38c42548.chunk.js.map",
     "index.html": "/resume-spa/index.html",
-    "precache-manifest.ba1e10bf843f49f0a9964494f09374c9.js": "/resume-spa/precache-manifest.ba1e10bf843f49f0a9964494f09374c9.js",
+    "precache-manifest.693c12cd8b155c6d5e2c0afa49c309dc.js": "/resume-spa/precache-manifest.693c12cd8b155c6d5e2c0afa49c309dc.js",
     "service-worker.js": "/resume-spa/service-worker.js",
     "static/css/2.090e4a27.chunk.css.map": "/resume-spa/static/css/2.090e4a27.chunk.css.map",
-    "static/css/main.cc7289e8.chunk.css.map": "/resume-spa/static/css/main.cc7289e8.chunk.css.map",
+    "static/css/main.4b5450aa.chunk.css.map": "/resume-spa/static/css/main.4b5450aa.chunk.css.map",
     "static/js/2.38c42548.chunk.js.LICENSE.txt": "/resume-spa/static/js/2.38c42548.chunk.js.LICENSE.txt",
     "static/media/index.css": "/resume-spa/static/media/bg-grad2.d231db30.png",
     "static/media/font-awesome.min.css": "/resume-spa/static/media/fontawesome-webfont.fee66e71.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.1de182e7.js",
     "static/css/2.090e4a27.chunk.css",
     "static/js/2.38c42548.chunk.js",
-    "static/css/main.cc7289e8.chunk.css",
+    "static/css/main.4b5450aa.chunk.css",
     "static/js/main.c72a2429.chunk.js"
   ]
 }
